@@ -137,6 +137,10 @@ por Alysson Mendonça
   ![teste](media/2_de_onde_saiu_2.png)
 
 
+   ### De onde saiu? (cont)
+  ![teste](media/2_de_onde_saiu_3.png)
+
+
   ### Programação Tradicional
   ![teste](media/2_receita.jpg) <!-- .element: class="fragment" data-fragment-index="1" -->
 
@@ -234,6 +238,10 @@ por Alysson Mendonça
 
 
   ### Processamento de Linguagem
+    ![teste](media/4_processamento_linguagem_2.gif)
+
+
+  ### Processamento de Linguagem
     ![teste](media/4_processamento_linguagem.png)
 
 
@@ -284,15 +292,19 @@ por Alysson Mendonça
   ![teste](media/6_van_gogh__starry_night__stanford.png)
 
 
-  ### Reinforcement Learning - 1
+  ### Reinforcement Learning
+  ![teste](media/6_rl_maze.png)
+
+
+  ### Reinforcement Learning
   <video controls><source data-src="media/6_rl_humanoid.mp4" type="video/mp4" /></video>
 
 
-  ### Reinforcement Learning - 2
+  ### Reinforcement Learning
   <video controls><source data-src="media/6_rl_injured_robots.mp4" type="video/mp4" /></video>
 
 
-  ### Reinforcement Learning - 3
+  ### Reinforcement Learning
   <video controls><source data-src="media/6_openai_dota.mp4" type="video/mp4" /></video>
 
 
