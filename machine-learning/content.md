@@ -125,7 +125,8 @@ por Alysson Mendonça
 
 
 
-## 2. O que é Machine Learning?
+### 2. O que é
+## _Machine Learning_?
 
 
   ### De onde saiu?
@@ -232,7 +233,7 @@ por Alysson Mendonça
     ![teste](media/4_reconhecimento_imagens.png)
 
 
-  ### Processamento de Linguagem Natural
+  ### Processamento de Linguagem
     ![teste](media/4_processamento_linguagem.png)
 
 
