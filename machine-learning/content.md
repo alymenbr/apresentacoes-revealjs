@@ -299,8 +299,9 @@ por Alysson Mendonça
 ## 6. _ML_ ao Vivo!
 
 
-  ### Sketcher
-  https://magenta.tensorflow.org/assets/sketch_rnn_demo/
+  ### Doodle Sketcher
+  * https://quickdraw.withgoogle.com/
+  * https://magenta.tensorflow.org/assets/sketch_rnn_demo/
 
 
   ### Teachable Machine
