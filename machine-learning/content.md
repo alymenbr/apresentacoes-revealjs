@@ -133,11 +133,11 @@ por Alysson Mendonça
   <video controls><source data-src="media/2_de_onde_saiu_1.mp4" type="video/mp4" /></video>
 
 
-  ### De onde saiu? (cont)
+  ### De onde saiu?
   ![teste](media/2_de_onde_saiu_2.png)
 
 
-   ### De onde saiu? (cont)
+   ### De onde saiu?
   ![teste](media/2_de_onde_saiu_3.png)
 
 
@@ -161,8 +161,7 @@ por Alysson Mendonça
 ## 3. Como Funciona?
 
 
-  ### Exemplo Prático
-  _Alguém_ gosta de SPAM?
+  ### _Alguém_ gosta de SPAM?
 
 
     ### Exemplo Prático
@@ -241,7 +240,7 @@ por Alysson Mendonça
     ![teste](media/4_processamento_linguagem_2.gif)
 
 
-  ### Processamento de Linguagem
+  ### Imagem + Linguagem
     ![teste](media/4_processamento_linguagem.png)
 
 
@@ -292,12 +291,16 @@ por Alysson Mendonça
   ![teste](media/6_van_gogh__starry_night__stanford.png)
 
 
+  ### _"Criatividade"_
+  ![teste](media/6_gan_zebra.gif)
+
+
   ### Reinforcement Learning
   ![teste](media/6_rl_maze.png)
 
 
   ### Reinforcement Learning
-  <video controls><source data-src="media/6_rl_humanoid.mp4" type="video/mp4" /></video>
+  <video controls><source data-src="media/6_rl_tetris.mp4" type="video/mp4" /></video>
 
 
   ### Reinforcement Learning
@@ -321,11 +324,11 @@ por Alysson Mendonça
   https://teachablemachine.withgoogle.com/
 
 
-
-## Obrigado!
+### Obrigado!
   * Alysson Mendonça
   * @alymenbr
   * alymenbr@gmail.com
+  ![teste](media/8_obrigado.jpg)
 
 
 
@@ -337,8 +340,8 @@ por Alysson Mendonça
 <video controls><source data-src="media/7_car_dillema.mp4" type="video/mp4" /></video>
 
 
-
-## Obrigado!
+### Obrigado!
   * Alysson Mendonça
   * @alymenbr
   * alymenbr@gmail.com
+  ![teste](media/8_obrigado.jpg)
