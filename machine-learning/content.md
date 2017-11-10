@@ -1,4 +1,3 @@
-
 <!-- LINKS
 Ensino:
   http://dalelane.co.uk/blog/?p=3513
@@ -80,9 +79,7 @@ por Alysson Mendonça
 
 
 ## 0. Motivação
-  <video autoplay controls>
-    <source data-src="media/0_car_tesla.mp4" type="video/mp4" />
-  </video>
+  <video controls><source data-src="media/0_car_tesla.mp4" type="video/mp4" /></video>
 
 
 
@@ -93,215 +90,241 @@ por Alysson Mendonça
   ![teste](media/1_tecnologia.jpg)
 
 
-  ### Eu gosto de...
+  ### E de...
   ![teste](media/1_viajar_1.jpg)
 
 
-  ### Eu gosto de...
-  ![teste](media/1_viajar_2.jpg)
+  ### Também gosto de...
+  ![teste](media/1_gatos.jpg)
 
 
-
-  ## O que eu gosto
-  [1_gatos.jpg] <!-- .element: class="fragment" data-fragment-index="1" -->
-  [1_piano.jpg] <!-- .element: class="fragment" data-fragment-index="2" -->
-  [1_gatos_tocando_piano.jpg] <!-- .element: class="fragment" data-fragment-index="3" -->
+  ### e também de...
+  ![teste](media/1_piano.jpg)
 
 
-  ## Formação Acadêmica
-  Ciência da Computação <!-- .element: class="fragment" data-fragment-index="1" -->
-  Engenharia de Produção <!-- .element: class="fragment" data-fragment-index="2" -->
+  ### Formação Acadêmica
+  * Ciência da Computação <!-- .element: class="fragment" data-fragment-index="1" -->
+  * Engenharia de Produção <!-- .element: class="fragment" data-fragment-index="2" -->
 
 
-  ## Formação Profissional
-  Accenture <!-- .element: class="fragment" data-fragment-index="1" -->
-  Scrum <!-- .element: class="fragment" data-fragment-index="2" -->
-  [1_scrum_facta]
+  ### Formação Profissional
+  Accenture
+  ![teste](media/1_accenture.jpg)
+
+
+  ### Formação Profissional
+  Metodologias Ágeis
+  ![teste](media/1_scrum_facta.jpg)
 
   Note: Accenture tem +300mil funcionários, faturamento anual de mais de 100 bilhões
 
 
-  ## Facta
+  ### Facta
   Visitem ;)
-  [1_mapa_facta.png]
+  ![teste](media/1_mapa_facta.png)
 
 
 
-# 2. O que é Machine Learning?
+## 2. O que é Machine Learning?
 
 
-  ## De onde saiu?
-  [2_de_onde_saiu_1.mp4]
-  [2_de_onde_saiu_2.png]
+  ### De onde saiu?
+  <video controls><source data-src="media/2_de_onde_saiu_1.mp4" type="video/mp4" /></video>
 
 
-  ## Programação Tradicional
-  [2_receita.jpg] <!-- .element: class="fragment" data-fragment-index="1" -->
-  [2_tradicional.png] <!-- .element: class="fragment" data-fragment-index="2" -->
+  ### De onde saiu? (cont)
+  ![teste](media/2_de_onde_saiu_2.png)
 
 
-  ## Machine Learning
+  ### Programação Tradicional
+  ![teste](media/2_receita.jpg) <!-- .element: class="fragment" data-fragment-index="1" -->
+
+
+  ### Programação Tradicional
+  ![teste](media/2_tradicional.png)
+
+
+  ### Machine Learning
   Aprendizagem por Exemplos <!-- .element: class="fragment" data-fragment-index="1" -->
-  [2_aprendizagem_exemplo] <!-- .element: class="fragment" data-fragment-index="2" -->
+
+
+  ### Machine Learning
+  ![teste](media/2_aprendizagem_exemplo.png)
 
 
 
-# 3. Como Funciona?
+## 3. Como Funciona?
 
 
-  ## Exemplo Prático
-  Quem gosta de SPAM?
+  ### Exemplo Prático
+  _Alguém_ gosta de SPAM?
 
 
-    ## Exemplo Prático - Nigerian SCAM
-    [3_spam_1.gif]
+    ### Exemplo Prático
+    ![teste](media/3_spam_1.gif)
 
 
-    ### Exemplo Prático - Nigerian SCAM
-    [3_spam_2a.jpg]
-    [3_spam_2b.jpg]
+    ### Nigerian SCAM
+    ![teste](media/3_spam_2a.jpg)
 
 
-    ### Exemplo Prático - Nigerian SCAM
-    [3_spam_3.jpg]
+    ### Nigerian SCAM
+    ![teste](media/3_spam_2b.jpg)
 
 
-  ## Anti-SPAM Tradicional
+    ### Nigerian SCAM
+    ![teste](media/3_spam_3.jpg)
+
+
+  ### Anti-SPAM Tradicional
 
 
     ### Tentativa 1 - País
-      * Bloqueia emails da Nigéria
+      * Bloquear emails contendo _Nigéria_
       * Bloqueia emails da Nigéria! <!-- .element: class="fragment" data-fragment-index="1" -->
 
 
     ### Tentativa 2 - Conteúdo
-      * Bloqueia emails com Nigéria e Dinheiro
-      * Bloqueia email de bancos <!-- .element: class="fragment" data-fragment-index="1" -->
-      * Cancela email de cobranças <!-- .element: class="fragment" data-fragment-index="1" -->
+      * Bloquear emails contendo _Nigéria e Dinheiro_
+      * Bloqueia email de bancos! <!-- .element: class="fragment" data-fragment-index="1" -->
+      * Bloqueia email de cobranças! <!-- .element: class="fragment" data-fragment-index="1" -->
 
 
     ### Tentativa 3 - Assunto
-      * Bloqueia emails com Nigéria, Dinheiro e Herança
-      * Funciona! <!-- .element: class="fragment" data-fragment-index="1" -->
-      * Até que... <!-- .element: class="fragment" data-fragment-index="1" -->
+      * Bloquear emails contendo _Nigéria e Dinheiro e Herança ou Príncipe ou Transferência_
+      * Ufa! Funciona! <!-- .element: class="fragment" data-fragment-index="1" -->
+      * Até que... <!-- .element: class="fragment" data-fragment-index="2" -->
 
 
     ### Tentativa 4 - E agora?
-    [3_spam_4.jpg]
+    ![teste](media/3_spam_4.jpg)
 
 
-  ## Anti-SPAM Machine Learning
+  ### Anti-SPAM com _Machine Learning_
   Aprendendo com exemplos
 
 
     ### 1 - Pegue MUITOS Exemplos
-    [3_ml_1.png]
+    ![teste](media/3_ml_1.png)
 
 
     ### 2 - Categorize cada Exemplo
-    [3_ml_2.png]
+    ![teste](media/3_ml_2.png)
 
 
     ### 3 - Separe as Categorias
-    [3_ml_3.png]
+    ![teste](media/3_ml_3.png)
 
 
     ### 4 - Treine um modelo de ML
-    [3_ml_4.png]
+    ![teste](media/3_ml_4.png)
 
 
 
-# 4. Aplicações de ML
+## 4. Aplicações de ML
 
 
-  ## Reconhecimento de Sons
-    [4_reconhecimento_sons.png]
+  ### Reconhecimento de Sons
+    ![teste](media/4_reconhecimento_sons.png)
 
 
-  ## Reconhecimento de Imagens
-    [4_reconhecimento_imagens.png]
+  ### Reconhecimento de Imagens
+    ![teste](media/4_reconhecimento_imagens.png)
 
 
-  ## Processamento de Linguagem Natural
-    [4_processamento_linguagem.png]
+  ### Processamento de Linguagem Natural
+    ![teste](media/4_processamento_linguagem.png)
 
 
-  ## Medicina
+  ### Medicina
     * Diagnóstico
     * Prescrição
     * Prognóstico
 
 
-  ## Medicina - Exemplo
+  ### Medicina - Exemplo
     * Retinopatia Diabética
-    [4_medicina_1.png]
+    ![teste](media/4_medicina_1.png)
 
 
-  ## Medicina - Outro Exemplo
+  ### Medicina - Outro Exemplo
     * Câncer de Mama
-    [4_medicina_2.gif]
+    ![teste](media/4_medicina_2.gif)
 
 
-  ## Recomendações
+  ### Recomendações
     * Netflix, Spotify, Amazon...
-    [4_recomendacao_netflix.jpg]
+    ![teste](media/4_recomendacao_netflix.jpg)
 
 
-  ## Predição
+  ### Predição
     * Manutenção de Veículos e Máquinas
-    [4_predictive_maintenance.jpg]
+    ![teste](media/4_predictive_maintenance.jpg)
 
 
-  ## Identificação de Fraudes
+  ### Identificação de Fraudes
     * Compras em Cartão de Crédito, Gastos Públicos
-    [4_fraudes.png]
+    ![teste](media/4_fraudes.png)
 
 
-  ## Logística
-    [4_logistica_truck.mp4]
+  ### Logística
+    <video controls><source data-src="media/4_logistica_truck.mp4" type="video/mp4" /></video>
 
 
-  ## Maquinaria Pesada
-    [4_maquinaria_pesada.mp4]
+  ### Maquinaria Pesada
+    <video controls><source data-src="media/4_maquinaria_pesada.mp4" type="video/mp4" /></video>
 
 
 
-# 5. ML ao Vivo!
+## 5. O que vem por aí
 
 
-  ## Sketcher
-  https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html
+  ### _"Criatividade"_
+  ![teste](media/6_van_gogh__starry_night__stanford.png)
 
 
-  ## Teachable Machine
+  ### Reinforcement Learning - 1
+  <video controls><source data-src="media/6_rl_humanoid.mp4" type="video/mp4" /></video>
+
+
+  ### Reinforcement Learning - 2
+  <video controls><source data-src="media/6_rl_injured_robots.mp4" type="video/mp4" /></video>
+
+
+  ### Reinforcement Learning - 3
+  <video controls><source data-src="media/6_openai_dota.mp4" type="video/mp4" /></video>
+
+
+
+## 6. _ML_ ao Vivo!
+
+
+  ### Sketcher
+  https://magenta.tensorflow.org/assets/sketch_rnn_demo/
+
+
+  ### Teachable Machine
   https://teachablemachine.withgoogle.com/
 
 
-# 6. O que vem por aí
 
-
-  ## "Criatividade" (GAN)
-  [6_van_gogh__starry_night__stanford.png]
-
-
-  ## Reinforcement Learning
-  [6_rl_humanoid.mp4]
-  [6_rl_injured_robots.mp4]
-  [6_openai_dota.mp4]
-
-
-# 7. Bonus - Dilemas Morais
-    [7_car_waymo.mp4]
-    [7_car_dillema.mp4]
-
-
-
-# Obrigado!
+## Obrigado!
   * Alysson Mendonça
   * @alymenbr
   * alymenbr@gmail.com
-  [8_obrigado.jpg]
 
 
 
+### 7. Bonus - Dilemas Morais
+<video controls><source data-src="media/7_car_waymo.mp4" type="video/mp4" /></video>
 
+
+### 7. Bonus - Dilemas Morais
+<video controls><source data-src="media/7_car_dillema.mp4" type="video/mp4" /></video>
+
+
+
+## Obrigado!
+  * Alysson Mendonça
+  * @alymenbr
+  * alymenbr@gmail.com
