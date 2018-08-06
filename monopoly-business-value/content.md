@@ -73,8 +73,9 @@ FUTURO
       ingles frances = 2 semanas
       google x academia (500 gpus por 1 mes)
 -->
-# Monopoly Business Value
-Alysson Mendonça
+# Monopoly
+  ## Business Value
+by _Alysson Mendonça_
 
 
 
@@ -89,14 +90,14 @@ Alysson Mendonça
   ![teste](media/1_gatos.jpg)
 
 
-  ### and pianos :)
+  ### and playing the piano :)
   ![teste](media/1_piano.jpg)
 
 
 
   ### I like to learn
   * Bsc. Computer Science
-  * Msc. Production Engineering
+  * Msc. Production Engineering & Optimization
 
 
   ### I _really_ like to learn
@@ -115,15 +116,15 @@ Alysson Mendonça
   * PO ≠ Stakeholder <!-- .element: class="fragment" data-fragment-index="4" -->
 
 
-  ## Backlog Example
+  ## Example Backlog
   ![teste](media/1_scrum_facta.jpg)  
 
 
   ## 1 day in the PO's life 
   * Stakeholders have desires <!-- .element: class="fragment" data-fragment-index="1" -->
   * Customers have suggestions <!-- .element: class="fragment" data-fragment-index="2" -->
-  * Team needs INVEST Stories <!-- .element: class="fragment" data-fragment-index="3" -->
-  * Prioritize, prioritize a lot and REALLY prioritize! <!-- .element: class="fragment" data-fragment-index="4" -->
+  * Team needs INVEST stories <!-- .element: class="fragment" data-fragment-index="3" -->
+  * Prioritize, prioritize a lot, REALLY prioritize! <!-- .element: class="fragment" data-fragment-index="4" -->
 
 
   ## BV based prioritizing
@@ -140,10 +141,10 @@ Alysson Mendonça
 
 
   ## Bônus
-  ### ROI based prioritizing
+  ROI based prioritizing
 
 
 
-### Thank you!
-  ## Come visit Facta someday!
-  ![teste](media/1_mapa_facta.png)
+## Thank you!
+Come visit Facta someday!
+![teste](media/1_mapa_facta.png)
